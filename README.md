@@ -1,5 +1,5 @@
 # Oral Lesion Classification APP
-This project is an image classification desktop application using the TKinter library and others.
+This GUI project is an image classification desktop application using the TKinter library and others.
 To classify oral lesion images 5 classes:
 - Leukoplakia
 - Lichen planus
@@ -18,4 +18,7 @@ https://drive.google.com/drive/u/1/folders/1zz6i9Kxj9VsDfdXGvbV3IafxxLqdX-hh
 - Click on the "Browse Weights" button to choose the model trained then click on the "Load Weights" button to load the model.
 - Click on the "Browse Image" button to choose the image then click on the "Load Image" button to load the image.
 - Click on the "Test Image" button to test the image and see the result.
-  *** The status of this app will show at the Notification Box"***
+  *** The status of this app will show in the Notification Box"***
+
+### Reference
+- https://www.youtube.com/watch?v=kTE15hp6aIU
